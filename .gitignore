@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — raw data is never committed
+data/raw/*.csv
+data/raw/*.parquet
+data/raw/*.pkl
+
+# Results — figures are committed, large files are not
+results/*.pkl
+results/*.parquet
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Environment variables
+.env
