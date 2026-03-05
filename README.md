@@ -269,4 +269,4 @@ jupyter notebook notebooks/
 
 **Sourodeep Roy**  
 MSc Data Science and Analytics, University of Leeds (Distinction)  
-[LinkedIn](https://linkedin.com/in/sourodeep-roy) | [GitHub](https://github.com/SourodeepRoy30)
+[LinkedIn](https://linkedin.com/in/sourodeeproy) | [GitHub](https://github.com/SourodeepRoy30)
